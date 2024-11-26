@@ -2,7 +2,7 @@
 
 # Sobre mim
 <div>
-Sou aluno do 2º ano do curso de infomática do IFMA Campus Açailândia
+Meu nome é Matheus Rufino sou aluno do 2º ano do curso de infomática do IFMA Campus Açailândia, tenho 16
 
 <img align="right" height="200" src="https://i.pinimg.com/736x/ba/d6/c0/bad6c0013b356e825e65b65bbc550b04.jpg"  />
 
@@ -23,23 +23,11 @@ Estou desenvolvendo um trabalho científico no qual estou produzindo um jogo 2d,
 * Comunicação eficaz
 * Trabalho em equipe
 * Adaptabilidade
-* Resiliência
-* Organização
 * Proatividade
-* Liderança
 * Resolução de problemas
-* Gestão de tempo
 * Criatividade
 * Empatia
-* Pensamento crítico
-* Inteligência emocional
-* Habilidade de negociação
 * Atenção aos detalhes
-* Tomada de decisão
-* Ética e integridade
-* Capacidade de aprendizado contínuo
-* Persuasão
-* Flexibilidade
 
 
 
@@ -75,5 +63,4 @@ Estou desenvolvendo um trabalho científico no qual estou produzindo um jogo 2d,
 <div align="center"> 
   <a href="https://www.instagram.com/matheus_ruf_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:mrufino@acad.ifma.edu.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
 </div>
