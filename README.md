@@ -11,8 +11,37 @@ Sou aluno do 2º ano do curso de infomática do IFMA Campus Açailândia
 * Videogames
 * Desenvolvendo um jogo sobre Açailândia
 
+# Informações Profissionais
+
+Desenvolvi vários web sites focados em responsividade e design atrativos, ultilizando HTML, CSS, Js e WordPress.
+Estou desenvolvendo um trabalho científico no qual estou produzindo um jogo 2d, ultizando Godot e LibreSprite. 
+
 # Habilidades
 ### Pessoais
+
+* Trabalho em equipe
+* Comunicação eficaz
+* Trabalho em equipe
+* Adaptabilidade
+* Resiliência
+* Organização
+* Proatividade
+* Liderança
+* Resolução de problemas
+* Gestão de tempo
+* Criatividade
+* Empatia
+* Pensamento crítico
+* Inteligência emocional
+* Habilidade de negociação
+* Atenção aos detalhes
+* Tomada de decisão
+* Ética e integridade
+* Capacidade de aprendizado contínuo
+* Persuasão
+* Flexibilidade
+
+
 
 
 ### Como programador
