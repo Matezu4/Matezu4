@@ -45,6 +45,7 @@ Estou desenvolvendo um trabalho científico no qual estou produzindo um jogo 2d,
 
 ![Linux](https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux&logoColor=FCC624)
 
+[![Godot Engine](https://img.shields.io/badge/Godot-%23000.svg?logo=godot-engine)](#)
 <div  align="center">
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Matezu4&layout=compact&langs_count=7&theme=react)
