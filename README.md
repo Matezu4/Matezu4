@@ -2,7 +2,7 @@
 
 # Sobre mim
 <div>
-Meu nome é Matheus Rufino, tenho 16 anos e estou nessa fase de descobertas, aprendendo mais sobre mim mesma e sobre o mundo ao meu redor. Apesar de ser jovem, estou sempre buscando crescer, seja nos estudos, nas amizades ou nas experiências de vida.
+Sou Matheus Rufino, tenho 16 anos e estou vivendo uma fase de autoconhecimento, explorando mais sobre mim e sobre o mundo ao meu redor. Embora ainda seja jovem, estou sempre em busca de crescimento, seja nos estudos, nas amizades ou nas vivências diárias.
 
 <img align="right" height="200" src="https://i.pinimg.com/736x/ba/d6/c0/bad6c0013b356e825e65b65bbc550b04.jpg"  />
 
